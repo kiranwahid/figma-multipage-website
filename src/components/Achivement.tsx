@@ -1,4 +1,3 @@
-import { AchievementCard } from "@/constant/AchivementCard";
 import React from "react";
 
 function AchivementSection() {

@@ -6,7 +6,6 @@ import { FaLinkedin } from "react-icons/fa";
 import Image from 'next/image';
 import Link from 'next/link';
 import { Button } from './ui/button';
-import { RiMenuAddFill } from "react-icons/ri";
 import { Sheet, SheetContent, SheetTrigger } from './ui/sheet';
 import { Menu } from 'lucide-react';
 
@@ -80,7 +79,6 @@ function Header() {
   </div>
     </SheetContent>
   </Sheet>
-  {/* <RiMenuAddFill size={24} className='xsm:hidden'/> */}
 </div>
 </header>
 
